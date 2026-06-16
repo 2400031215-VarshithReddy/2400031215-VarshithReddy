@@ -21,22 +21,31 @@
 
 ```python
 class VarshithReddy:
-    name     = "Bhimavarapu Varshith Reddy"
-    role     = "AI & Full-Stack Developer"
-    location = "Andhra Pradesh, India 🇮🇳"
-    education = "B.Tech (Computer Science)"
-    
-    languages = ["Telugu", "English", "Hindi"]
-    
-    stack = ["Flutter", "Supabase", "Firebase",
-             "Riverpod", "Gemini API", "Python",
-             "HTML", "CSS", "JavaScript"]
-    
-    interests = ["AI/ML", "Web Development",
-                 "Mobile Apps", "Open Source"]
-    
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something 🚀")
+    def __init__(self):
+        self.name = "Bhimavarapu Varshith Reddy"
+        self.roles = ["AI Alchemist", "Full-Stack Architect", "Flutter Explorer"]
+        self.location = "Andhra Pradesh, India 🇮🇳"
+        self.caffeine_fueled = True
+        self.bugs_fixed = float('inf')
+
+    def get_stack(self):
+        return {
+            "mobile": ["Flutter", "Dart", "Riverpod"],
+            "web": ["HTML", "CSS", "JavaScript", "React", "Next.js"],
+            "backend": ["Supabase", "Firebase", "PostgreSQL"],
+            "brain": ["Gemini API", "Python"]
+        }
+
+    def current_status(self):
+        return {
+            "status": "Assembling bugs & features",
+            "caffeine_level": "High",
+            "training_models": True,
+            "languages": ["Telugu", "English", "Hindi"]
+        }
+
+    def execute(self):
+        print("Thanks for visiting! Let's build something legendary 🚀")
 ```
 
 <br clear="right"/>
