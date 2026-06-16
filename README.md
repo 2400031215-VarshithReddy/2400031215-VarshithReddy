@@ -1,16 +1,8 @@
 <!-- HEADER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=200&section=header&text=Varshith%20Reddy&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Full-Stack%20%7C%20Web%20Dev%20%7C%20Flutter&descAlignY=58&descSize=20&animation=twinkling"/>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=650&height=45&lines=🤖+AI+%2B+Full-Stack+%2B+Flutter+Developer;🌐+Building+modern+web+experiences;🎯+Turning+ideas+into+production+apps;🇮🇳+Andhra+Pradesh+%E2%86%92+The+World" alt="Typing SVG" />
-</p>
-
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://github.com/2400031215-VarshithReddy">
-    <img src="https://img.shields.io/github/followers/2400031215-VarshithReddy?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0a0e27&logo=github"/>
-  </a>
   <img src="https://komarev.com/ghpvc/?username=2400031215-VarshithReddy&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true"/>
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-brightgreen?style=for-the-badge&labelColor=0a0e27"/>
 </p>
@@ -112,15 +104,6 @@ class VarshithReddy:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=2400031215-VarshithReddy&theme=tokyonight&background=0a0e27&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b8b8b" />
-</p>
-
----
-
-<!-- ACHIEVEMENTS -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2400031215-VarshithReddy&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 </p>
 
 ---
