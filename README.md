@@ -14,9 +14,22 @@
     <img src="https://img.shields.io/badge/GitHub-2400031215--VarshithReddy-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e27"/>
   </a>
   &nbsp;
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0e27"/>
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff6b35?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0e27"/>
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=2400031215-VarshithReddy&color=00d4ff&style=for-the-badge&label=Profile+Views&abbreviated=true"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27"/>
+</p>
+
+<!-- GITHUB PROFILE TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=2400031215-VarshithReddy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
 </p>
 
 ---
@@ -96,6 +109,19 @@ class VarshithReddy:
 
 ---
 
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake.svg"/>
+    <img alt="snake contribution animation" src="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
 <!-- CONTRIBUTION ACTIVITY GRAPH -->
 ## 📈 Contribution Activity
 
@@ -105,11 +131,34 @@ class VarshithReddy:
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS + TOP LANGUAGES -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2400031215-VarshithReddy&theme=tokyonight&background=0a0e27&border=0d4f8c&stroke=0d4f8c&ring=00d4ff&fire=ff6b35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=8b8b8b" alt="GitHub Streak Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2400031215-VarshithReddy&show_icons=true&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  &nbsp;
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400031215-VarshithReddy&layout=compact&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&title_color=00d4ff&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- FEATURED PROJECTS -->
+## 🚀 Featured Projects
+
+<!-- 💡 Replace YOUR_REPO_1, YOUR_REPO_2, YOUR_REPO_3 with your actual repository names -->
+<p align="center">
+  <a href="https://github.com/2400031215-VarshithReddy/YOUR_REPO_1">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=2400031215-VarshithReddy&repo=YOUR_REPO_1&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Project 1"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/2400031215-VarshithReddy/YOUR_REPO_2">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=2400031215-VarshithReddy&repo=YOUR_REPO_2&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Project 2"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/2400031215-VarshithReddy/YOUR_REPO_3">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=2400031215-VarshithReddy&repo=YOUR_REPO_3&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Project 3"/>
+  </a>
 </p>
 
 ---
