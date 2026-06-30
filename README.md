@@ -64,33 +64,11 @@ class VarshithReddy:
 
 ---
 
-<!-- GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2400031215-VarshithReddy&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-</p>
-
----
-
 <!-- GITHUB STREAK STATS -->
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=2400031215-VarshithReddy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" alt="GitHub Streak"/>
-</p>
-
----
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-## 🐍 Snake Eating My Contributions
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake-dark.svg"/>
-  </picture>
 </p>
 
 ---
