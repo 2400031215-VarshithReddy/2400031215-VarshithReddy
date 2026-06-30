@@ -27,11 +27,6 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-00ff88?style=for-the-badge&labelColor=0a0e27"/>
 </p>
 
-<!-- GITHUB PROFILE TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2400031215-VarshithReddy&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</p>
-
 ---
 
 <!-- ABOUT ME SECTION -->
@@ -72,8 +67,39 @@ class VarshithReddy:
 <!-- TECH STACK -->
 ## 🛠️ Tech Stack & Tools
 
+<!-- Animated 3D Icons from TechStack Generator -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,js,react,nextjs,html,css,supabase,firebase,postgres,git,github,vscode,androidstudio,figma,linux,docker&perline=9&theme=dark"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+</p>
+
+<!-- 3D-Style Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 <details>
@@ -97,26 +123,13 @@ class VarshithReddy:
 ---
 
 <!-- PACMAN CONTRIBUTION GRAPH -->
-## 🕹️ Pac-Man Contribution Graph
+## 🕹️ Pac-Man Eats My Contributions!
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/pacman-contribution-graph-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/pacman-contribution-graph.svg"/>
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/pacman-contribution-graph-dark.svg"/>
-  </picture>
-</p>
-
----
-
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake.svg"/>
-    <img alt="snake contribution animation" src="https://raw.githubusercontent.com/2400031215-VarshithReddy/2400031215-VarshithReddy/output/github-snake-dark.svg"/>
   </picture>
 </p>
 
@@ -135,30 +148,9 @@ class VarshithReddy:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2400031215-VarshithReddy&show_icons=true&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2400031215-VarshithReddy&show_icons=true&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
   &nbsp;
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400031215-VarshithReddy&layout=compact&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&title_color=00d4ff&text_color=ffffff&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
-<!-- FEATURED PROJECTS -->
-## 🚀 Featured Projects
-
-<!-- 💡 Replace YOUR_REPO_1, YOUR_REPO_2, YOUR_REPO_3 with your actual repository names -->
-<p align="center">
-  <a href="https://github.com/2400031215-VarshithReddy/YOUR_REPO_1">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=2400031215-VarshithReddy&repo=YOUR_REPO_1&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Project 1"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/2400031215-VarshithReddy/YOUR_REPO_2">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=2400031215-VarshithReddy&repo=YOUR_REPO_2&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Project 2"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/2400031215-VarshithReddy/YOUR_REPO_3">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=2400031215-VarshithReddy&repo=YOUR_REPO_3&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=true" alt="Project 3"/>
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2400031215-VarshithReddy&layout=compact&theme=tokyonight&bg_color=0a0e27&border_color=0d4f8c&title_color=00d4ff&text_color=ffffff&hide_border=true&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 ---
