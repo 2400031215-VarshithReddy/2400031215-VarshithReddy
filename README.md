@@ -59,7 +59,7 @@ class VarshithReddy:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2400031215-VarshithReddy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=2400031215-VarshithReddy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -69,13 +69,12 @@ class VarshithReddy:
 
 <!-- Animated 3D Icons from TechStack Generator -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="85" height="85"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="85" height="85"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="85" height="85"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="85" height="85"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="85" height="85"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="85" height="85"/>
 </p>
 
 <!-- 3D-Style Badges -->
