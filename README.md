@@ -59,7 +59,7 @@ class VarshithReddy:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="./github-streak-stats.svg" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=2400031215-VarshithReddy&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff&background=0a0e27" alt="GitHub Streak"/>
 </p>
 
 ---
